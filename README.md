@@ -14,12 +14,18 @@ Game over? Click anywhere on screen to restart.
 
 **It can't get simpler than that!**
 
+![](https://raw.githubusercontent.com/the-akze/mini-circle-dash/refs/heads/main/gameplay.gif)
+
+### Tiny!
+
+The website is only ***`1846 bytes`*** and the data URL is only ***`2486 bytes`***!
+
 ### Made for the "Say Cheese" HackClub YSWS.
 
-[Click to see data URL file](/data_url_b64.txt)
+[Click to see data URL file](https://raw.githubusercontent.com/the-akze/mini-circle-dash/refs/heads/main/data_url_b64.txt)
 
 QR Code:
 
-![](/qr.png)
+![](https://raw.githubusercontent.com/the-akze/mini-circle-dash/refs/heads/main/qr.png)
 
 ### *Don't crash!*
